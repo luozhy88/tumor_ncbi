@@ -13,7 +13,10 @@ Colorectal cancer-associated microbiota contributes tooncogenic epigenetic signa
 human;China;  
 Groups(case,control);74 CRC patients and 54 controls   
 
-
+### PRJDB4176 DRP004793
+Japan  
+Age;Sex;    
+Groups(Healthy control;CRC (Stage III/IV))  
 
 
 
